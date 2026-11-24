@@ -20,7 +20,7 @@ Final-year B.Tech (E&TC) student at **SPIT, Mumbai**, with a Minor in AI/ML and 
 
 **Systems & Tools:** `Git` `Linux` `MQTT` `WebSockets` `ESP32` `ATmega2560` `PlatformIO`
 
-**Hardware (secondary):** `Verilog` `SystemVerilog` `Vivado` `Vitis HLS` `KiCad` `LTSpice` `SDR / GNU Radio`
+**Hardware:** `Verilog` `SystemVerilog` `Vivado` `Vitis HLS` `KiCad` `LTSpice` `SDR / GNU Radio`
 
 ---
 
