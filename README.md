@@ -1,97 +1,61 @@
-# Hey, I'm Rajas Wagle! 👋
+# Hey, I'm Rajas Wagle 👋
 
-### Electronics & Telecommunication Engineer | FPGA Design | Digital Signal Processing | Edge AI
+### Electronics & Telecom Engineer | Signal Processing & Machine Learning | Data Pipelines | Edge AI
 
-I'm an undergraduate engineering student at **Sardar Patel Institute of Technology, Mumbai**, pursuing Electronics & Telecommunication Engineering with a multidisciplinary minor in Artificial Intelligence and Machine Learning.
+Final-year B.Tech (E&TC) student at **SPIT, Mumbai**, with a Minor in AI/ML and an Honours-through-Research track. I like turning signals and sensor data into something measurable: acquiring it, processing it, modelling it, and presenting it.
 
-I enjoy working at the intersection of **hardware, signal processing and intelligent computing** — taking algorithms from software-level development to actual hardware implementation.
-
-- 🔬 Interested in FPGA-based computing, hardware acceleration and Edge AI.
-- ⚡ Exploring digital design, RTL verification and embedded systems.
-- 🧠 Working with machine learning, neural networks and signal processing.
-- 📡 Fascinated by wireless communication, SDR and real-time systems.
-- 🚀 Always experimenting, building and learning something new.
+- 🧠 Machine learning and signal processing in Python and MATLAB
+- 📊 Data pipelines: raw streams to clean datasets to analysis
+- 🌐 Real-time software: MQTT, WebSockets, dashboards
+- 🔬 Hardware-accelerated ML on FPGA (Edge AI)
+- 🚦 Currently interested in computer vision and video analytics for real-world data
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### Hardware Description & FPGA
-`Verilog` `SystemVerilog` `VHDL` `Vivado` `Vitis HLS` `FPGA Design` `RTL Verification`
+**Programming & Data:** `Python` `NumPy` `SciPy` `Scikit-learn` `MATLAB` `C` `C++` `TypeScript` `JavaScript`
 
-### Programming & Development
-`Python` `C` `MATLAB` `Embedded C` `NumPy` `SciPy` `Scikit-learn`
+**ML & Signal Processing:** `Random Forest` `Neural Networks` `TensorFlow` `Feature Extraction` `Digital Signal Processing` `Cross-correlation` `Time-series Analysis`
 
-### AI / ML & Edge Computing
-`TensorFlow` `Machine Learning` `Neural Networks` `Random Forest` `Edge AI` `Hardware Acceleration`
+**Systems & Tools:** `Git` `Linux` `MQTT` `WebSockets` `ESP32` `ATmega2560` `PlatformIO`
 
-### Signal Processing & Communication
-`Digital Signal Processing` `SDR` `GNU Radio` `MATLAB/Simulink` `Wireless Communication`
-
-### Embedded Systems & EDA
-`ESP32` `STM32` `KiCad` `LTSpice` `Proteus` `PCB Design` `MQTT`
+**Hardware (secondary):** `Verilog` `SystemVerilog` `Vivado` `Vitis HLS` `KiCad` `LTSpice` `SDR / GNU Radio`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🫀 FPGA-Based Edge AI for Biomedical Signal Classification
-Developing a hardware-accelerated machine learning framework for PPG signal analysis and myocardial infarction classification using an FPGA-based implementation.
+### 📡 Real-Time Telemetry Platform — [Prakalp_ChipsAhoy](https://github.com/RajasW18/Prakalp_ChipsAhoy)
+Full-stack pipeline from ESP32 firmware to a live web dashboard over MQTT (TLS 1.3, QoS 1) and WebSockets, with a test sender for load simulation. 99.9997% message delivery over 48 hours.
+**Tech:** TypeScript, Node.js, MQTT, WebSockets
 
-**Tech:** Python, Random Forest, Vitis HLS, Xilinx Artix-7, Conifer
+### 🫀 FPGA-Based Edge AI for PPG Classification
+Hardware-accelerated Random Forest for cardiac signal classification: feature reduction (15 → 5), Python training, Conifer to HLS, FPGA deployment.
+**Tech:** Python, scikit-learn, Conifer, Vitis HLS, Artix-7
 
-### ⚡ LLC Resonant Converter Design
-Design and simulation of a high-frequency LLC resonant converter, focusing on power conversion, resonant tank design and switching behaviour.
+### 🧪 Spectroscopy DAQ Controller — [DAQ_Spectroscopy_Controller](https://github.com/RajasW18/DAQ_Spectroscopy_Controller)
+Deterministic sequencing engine over UART and a pipeline that converts raw hex streams into structured CSV via JSON configs; web interface in progress.
+**Tech:** Embedded C, Python, JSON
 
-**Tech:** MATLAB, LTSpice, Power Electronics
-
-### 📡 Digital Signal Processing for Biosignals
-Exploring DSP techniques for biomedical signal analysis, including filtering, feature extraction and signal-based authentication.
-
+### 📈 Digital Signal Processing for Biosignals
+Filtering, feature extraction and signal-based authentication on biomedical signals.
 **Tech:** Python, MATLAB, SciPy
 
-### 🔌 Hardware Description & Verification
-RTL design and SystemVerilog-based verification of digital systems, including memory architectures, UART and APB interfaces.
-
-**Tech:** Verilog, SystemVerilog, QuestaSim
-
----
-
-## 🧰 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4B0082?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Xilinx](https://img.shields.io/badge/Xilinx_FPGA-E01F27?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🔌 Hardware Verification — [FPGA-Dynamic-Reconfiguration-Controller-](https://github.com/RajasW18/FPGA-Dynamic-Reconfiguration-Controller-)
+SystemVerilog verification of an FPGA dynamic-reconfiguration controller (team coursework project).
+**Tech:** SystemVerilog, QuestaSim
 
 ---
 
 ## 🏆 Beyond Engineering
-
-- ♟️ Played chess at the state level.
-- ⚽ Football enthusiast.
-- 📺 Sitcom fan — Friends, Brooklyn Nine-Nine and more.
-- 🎯 Always up for a technical challenge or a new project.
+- ♟️ Played chess at the state level
+- ⚽ Football enthusiast
+- 📺 Sitcom fan: Friends, Brooklyn Nine-Nine and more
 
 ---
 
-## 📊 GitHub Activity
+### 🤝 Let's Connect
+Open to research collaborations in signal processing, ML, and data-driven systems.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajasW18&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajasW18&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🤝 Let's Connect!
-
-I'm always interested in discussing FPGA development, hardware acceleration, DSP, embedded systems and innovative engineering projects.
-
-**Explore my repositories and feel free to connect!**
-
+[LinkedIn](https://www.linkedin.com/in/rajas-wagle-7b547828b) · rajaswagleengineering@gmail.com
